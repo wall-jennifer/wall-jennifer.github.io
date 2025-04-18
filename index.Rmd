@@ -1,3 +1,5 @@
+rmarkdown:::site_skeleton(getwd())
+
 ---
 title: Jennifer Wall, PhD
 author: Jennifer Wall
